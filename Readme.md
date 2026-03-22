@@ -83,3 +83,9 @@ Your report should contain:
   
 
 - **Written Summary** of observations and explanations of differences.  
+## Calculation and Tabulation:
+![output](a1.jpeg)
+![output](a2.jpeg)
+
+## Result:
+Thus Attenuation-Limited Fiber Length with budget equation is calculated and verified successfully
