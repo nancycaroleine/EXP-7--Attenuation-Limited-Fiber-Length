@@ -49,7 +49,12 @@ Using the power budget equation and the parameters below, determine the attenuat
 - Visualizer components are included to obtain necessary simulation data.  
 
 ---
+## Block diagram
+2.5GB
+![output](b1.png)
 
+10GB
+![output](b2.png)
 ## Simulation
 1. Run the simulation and record:
    - **Optical power levels (dBm):**
